@@ -1,0 +1,26 @@
+{
+  "gmail": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 465,
+    "use_ssl": true,
+    "domain": "gmail.com"
+  },
+  "yahoo": {
+    "smtp_server": "smtp.mail.yahoo.com",
+    "smtp_port": 465,
+    "use_ssl": true,
+    "domain": "yahoo.com"
+  },
+  "icloud": {
+    "smtp_server": "smtp.mail.me.com",
+    "smtp_port": 587,
+    "use_ssl": false,
+    "domain": "icloud.com"
+  },
+  "zoho": {
+    "smtp_server": "smtp.zoho.eu",
+    "smtp_port": 465,
+    "use_ssl": true,
+    "domain": "zohomail.eu"
+  }
+}
